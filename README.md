@@ -202,5 +202,4 @@ The Streamlit app accepts a customer's full profile and returns an estimated chu
 | Visualisation | `matplotlib`, `seaborn` |
 | Model Serialisation | `joblib`, `json` |
 
----"# telecom-churn-predictor" 
-"# telecom-churn-predictor" 
+---
